@@ -4,7 +4,7 @@
 <p align="left">  
 <a href="https://twitter.com/akcamuammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akcamuammer" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/muammerakca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muammerakca" height="30" width="40" /></a>  
-<a href="https://www.youtube.com/channel/ucztjt-7eilov6rcpj2tiozg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucztjt-7eilov6rcpj2tiozg" height="30" width="40" /></a>  
+<a href="https://www.youtube.com/channel/UCZTjt-7EILOv6RCpj2TIoZg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucztjt-7eilov6rcpj2tiozg" height="30" width="40" /></a>  
 </p>  
   
 <h3 align="left">Languages and Tools:</h3>  
