@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muammer</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">A passionate Developer</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/linkedin.com/in/muammerakca" target="blank">
